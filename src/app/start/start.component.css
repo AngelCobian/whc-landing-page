@@ -1,0 +1,10 @@
+#custom{
+  background-image: url('https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-cta.jpg');
+  background-size: 100% 100%;
+}
+p{
+  margin: 0;
+  line-height: 1.5em;
+  font-size: 250%;
+  font-weight: 500;
+}
